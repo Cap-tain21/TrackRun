@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TrackRun</string>
+    <string name="title_activity_main">TrackRun</string>
+    <string name="package_name">com.trackrun.app</string>
+    <string name="custom_url_scheme">com.trackrun.app</string>
+</resources>
